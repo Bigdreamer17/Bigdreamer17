@@ -1,5 +1,4 @@
-[![Header]](https://github.com/Bigdreamer17/Bigdreamer17/blob/main/i'm_steve.gif)
-
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)
 
 ## Hello 👋, I'm Estifanos you may call me Steve.
 
